@@ -1,0 +1,33 @@
+@import url(../public/fonts/inter/inter.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	scroll-behavior: smooth;
+}
+
+a {
+	cursor: pointer;
+}
+
+@layer components {
+	.button-primary {
+		@apply flex cursor-pointer flex-row items-center justify-center space-x-2 rounded-lg bg-blue-500 py-3 px-5 text-lg font-medium leading-6 text-white transition-all duration-100 ease-in-out active:bg-blue-600;
+	}
+	.button-primary-rounded {
+		@apply flex cursor-pointer flex-row items-center justify-center space-x-2 rounded-full bg-blue-500 py-3 px-6 text-lg font-medium leading-6 text-white transition-all duration-100 ease-in-out active:bg-blue-600;
+	}
+
+	.button-secondary {
+		@apply flex cursor-pointer flex-row items-center justify-center space-x-2 rounded-lg py-3 px-5 text-lg font-medium leading-6 text-blue-500 ring-2 ring-inset ring-blue-500 transition-all duration-100 ease-in-out hover:bg-blue-600/5 active:bg-blue-600/10 active:text-blue-600 active:ring-blue-600;
+	}
+	.button-secondary-rounded {
+		@apply flex cursor-pointer flex-row items-center justify-center space-x-2 rounded-full py-3 px-6 text-lg font-medium leading-6 text-blue-500 ring-2 ring-inset ring-blue-500 transition-all duration-100 ease-in-out hover:bg-blue-600/5 active:bg-blue-600/10 active:text-blue-600 active:ring-blue-600;
+	}
+
+	.input {
+		@apply w-full appearance-none rounded-lg border border-gray-600 bg-gray-50/50 py-3 px-4 text-xl outline-none transition-all duration-100 ease-in-out focus:border-blue-500 focus:ring-2 focus:ring-blue-500 md:text-lg;
+	}
+}

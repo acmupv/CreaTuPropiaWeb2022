@@ -1,0 +1,49 @@
+[
+	{
+		"company": "Internxt",
+		"dateRange": {
+			"from": "July 2020",
+			"to": "Present"
+		},
+		"title": "Lead Product Designer",
+		"description": [
+			"Led the creation, documentation, and implementation of the design system in Internxt, using Figma, Storybook, and TailwindCSS, achieving a 60% reduction in frontend development time and code review.",
+			"Led UX Research, UI prototyping, Service Design and UI Design for multiple new products. Helped Frontend team during the development and testing of the applications."
+		],
+		"link": {
+			"title": "Visit site",
+			"url": "https://internxt.com/"
+		}
+	},
+	{
+		"company": "ACM UPV Chapter",
+		"dateRange": {
+			"from": "June 2020",
+			"to": "Present"
+		},
+		"title": "Designer and Developer",
+		"description": [
+			"Led and formed a multidisciplinary team of developers and designers to maintain and improve the website.",
+			"Collaborated in multiple workshops as helper and teacher, forming hundreds of students on UX/UI Design and Web Development."
+		],
+		"link": {
+			"title": "Visit site",
+			"url": "https://acm.webs.upv.es/"
+		}
+	},
+	{
+		"company": "Proluo UPV",
+		"dateRange": {
+			"from": "October 2020",
+			"to": "Present"
+		},
+		"title": "Creative Designer",
+		"description": [
+			"Collaborated on web development and currently forming a team of developers on web development to migrate website from HTML to NextJS, improving scalability, reliability and speed and reducing development change rate by 200%"
+		],
+		"link": {
+			"title": "Visit site",
+			"url": "https://proluoupv.com/"
+		}
+	}
+]
