@@ -76,7 +76,8 @@ A continuación tienes una lista de consultas, webs, artículos y videos de inte
 ##### Webs de inspiración
 
 > Recuerda lo que hemos comentado en el taller para "copiar como un profesional"
-> <br/> > **(Inspiración → Apreciación → Análisis → Deconstrucción → Construcción)**
+> <br/>
+> **(Inspiración → Apreciación → Análisis → Deconstrucción → Construcción)**
 
 - Colecciones
   - [Awwwards.com](https://www.awwwards.com/websites/portfolio/)
