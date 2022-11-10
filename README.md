@@ -49,6 +49,9 @@ A continuación tienes una lista de consultas, webs, artículos y videos de inte
 <br/>
 <br/>
 
+##### Presentación
+[Aquí](https://www.figma.com/proto/hj2TzloYqMhvq3LgqrRggG/Crea-tu-propia-web?page-id=29%3A1510&node-id=29%3A1511&viewport=355%2C258%2C0.4&scaling=contain&starting-point-node-id=29%3A1511&hotspot-hints=0&hide-ui=1) puedes ver la presentación usada en el taller (echa en Figma).
+
 ##### ¿Dónde hosteo mi portfolio?
 
 > Te recomendamos usar <a target="_blank" href="https://www.netlify.com/">Netlify</a>, es muy sencillo de manejar y es gratis. ¡Podrás compartir tu portfolio públicamente en un par de clicks desde el repositorio de Github!
